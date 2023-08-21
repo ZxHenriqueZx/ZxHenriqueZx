@@ -3,10 +3,10 @@
 🔍 E estou a procura do primeiro emprego na área de programação.
 ##
 <a href="https://github.com/ZxHenriqueZx/stats">
-  <img height=200 align="center" src="https://github.com/ZxHenriqueZx/stats/api?username=ZxHenriqueZx&theme=gruvbox" />
+  <img height=200 align="center" src="http://stats-zxhenriquezx.vercel.app/api?username=ZxHenriqueZx&theme=gruvbox" />
 </a>
 <a href="https://github.com/ZxHenriqueZx/stats">
-  <img height=150 align="center" src="https://github.com/ZxHenriqueZx/stats/api/top-langs?username=ZxHenriqueZx&layout=compact&langs_count=8&card_width=270&theme=gruvbox" />
+  <img height=150 align="center" src="http://stats-zxhenriquezx.vercel.app/api/top-langs?username=ZxHenriqueZx&layout=compact&langs_count=8&card_width=270&theme=gruvbox" />
 </a>
 
 ##
