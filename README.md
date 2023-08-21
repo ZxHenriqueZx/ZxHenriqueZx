@@ -2,11 +2,11 @@
 📙 Estou atuamente estudando programação mais focado na área de back-end, começando com python mas pretendo estudar outras tecnologias.\
 🔍 E estou a procura do primeiro emprego na área de programação.
 ##
-<a href="https://stats-hfzhfnio9-zxhenriquezx.vercel.app">
-  <img height=200 align="center" src="https://stats-hfzhfnio9-zxhenriquezx.vercel.app/api?username=ZxHenriqueZx&theme=gruvbox" />
+<a href="https://github.com/ZxHenriqueZx/stats">
+  <img height=200 align="center" src="https://github.com/ZxHenriqueZx/stats/api?username=ZxHenriqueZx&theme=gruvbox" />
 </a>
 <a href="https://github.com/ZxHenriqueZx/stats">
-  <img height=150 align="center" src="https://stats-hfzhfnio9-zxhenriquezx.vercel.app/api/top-langs?username=ZxHenriqueZx&layout=compact&langs_count=8&card_width=270&theme=gruvbox" />
+  <img height=150 align="center" src="https://github.com/ZxHenriqueZx/stats/api/top-langs?username=ZxHenriqueZx&layout=compact&langs_count=8&card_width=270&theme=gruvbox" />
 </a>
 
 ##
