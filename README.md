@@ -1,4 +1,4 @@
-### 👋🏾 Olá, sou o Luis Henrique 
+### 👋🏾 Oi, sou o Luis Henrique 
 📙 Estou atuamente estudando programação mais focado na área de back-end, começando com python mas pretendo estudar outras tecnologias.\
 🔍 E estou a procura do primeiro emprego na área de programação.
 ##
